@@ -1,6 +1,11 @@
-### Hi GitHub community 👋
-Welcome to my GitHub profile!
+## PORTFOLIO
 
-I'm a young motivated french front-end developer specializing in ReactJS. I try to challenge myself daily with projects that make me happy and to learn new skills. Apart from that, I'm passionate about cinema and history.
+[dylanpiriou.fr](https://dylanpiriou.fr)
 
-I wish you a good day😁
+## MAIL
+
+[pirioudylan@gmail.com](mailto:pirioudylan@gmail.com)  
+
+## SOCIAL
+
+[Linkedin](https://www.linkedin.com/in/dylanpiriou)
