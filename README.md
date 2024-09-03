@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-[dylanpiriou.fr](https://dylanpiriou.fr)
+[dylanpiriou.com](https://dylanpiriou.com)
 
 ## MAIL
 
