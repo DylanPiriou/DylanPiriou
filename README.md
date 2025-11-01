@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-[dylanpirioudev.netlify.app](https://dylanpirioudev.netlify.app)
+[dylanpiriou.com](https://dylanpiriou.com)
 
 ## MAIL
 
